@@ -33,4 +33,4 @@ app.listen(config.port);
 exports = module.exports = app;
 
 // Logging initialization
-console.log('LOBSTERDEATH application started on port ' + config.port);
+console.log('StageUp application started on port ' + config.port);
