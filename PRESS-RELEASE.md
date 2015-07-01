@@ -17,19 +17,19 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Lobster
+  > StageUp
 
 ## Sub-Heading ##
   > Helping artists connect with other artists for collaboration and work-sharing.
 
 ## Summary ##
-  > Lobster is a social matching engine to help artists find other artists in their field. It builds a profile of attributes like taste, workstyle, and commitment, then makes recommendations based on what you're like and what's important to you.
+  > StageUp is a social matching engine to help artists find other artists in their field. It builds a profile of attributes like taste, workstyle, and commitment, then makes recommendations based on what you're like and what's important to you.
 
 ## Problem ##
   > There are no good ways for artists to meet. Classes are expensive, ads are broad and unpredictable, meetups are unreliable.
 
 ## Solution ##
-  > Lobster uses questionnaires to quantify personality traits, then compare those traits with what others are looking for. It's a safe space to reach out to other artists and get a basic sense of who they are.
+  > StageUp uses questionnaires to quantify personality traits, then compare those traits with what others are looking for. It's a safe space to reach out to other artists and get a basic sense of who they are.
 
 ## Quote from You ##
   > Do it.
@@ -38,7 +38,7 @@ Once the project moves into development, the press release can be used as a touc
   > Answer a few questions and start browsing your matches.
 
 ## Customer Quote ##
-  > I've met so many artists that I'm excited to work with. Thanks, Lobster!
+  > I've met so many artists that I'm excited to work with. Thanks, StageUp!
 
 ## Closing and Call to Action ##
-  > Lobster. Find your community.
+  > StageUp. Find your community.
