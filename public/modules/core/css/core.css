@@ -1,15 +1,258 @@
 .content {
-	margin-top: 50px;
+    margin-top: 50px;
 }
+
+h3 {
+    font: 14px "Open Sans", Helvetica, Arial, sans-serif;
+}
+
 .undecorated-link:hover {
-	text-decoration: none;
+    text-decoration: none;
 }
-[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
-	display: none !important;
+
+[ng\:cloak],
+[ng-cloak],
+[data-ng-cloak],
+[x-ng-cloak],
+.ng-cloak,
+.x-ng-cloak {
+    display: none !important;
 }
+
 .ng-invalid.ng-dirty {
-	border-color: #FA787E;
+    border-color: #FA787E;
 }
+
 .ng-valid.ng-dirty {
-	border-color: #78FA89;
+    border-color: #78FA89;
+}
+
+video .jumbotron {
+    /*position: fixed;*/
+    /*top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;*/
+    /*width: auto;*/
+    /*height: auto;*/
+    /*z-index: -100;*/
+    
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    /*transform: translateX(-50%) translateY(-50%);*/
+    /*background: url(http://sener.is/2015-06-02-market/2015-06-02-market.jpg) no-repeat;*/
+    
+    background-size: cover;
+}
+
+.profile {
+    /*display: inline-block;*/
+    
+    width: 800px;
+    font-family: 'Helvetica Neue';
+    /*margin-bottom: 30px;*/
+    
+    font-size: 1.3em;
+}
+
+.profileHead {
+    /*position: relative;*/
+    
+    width: 900px;
+    height: 180px;
+    border-bottom: solid 5px black;
+    margin-bottom: 20px;
+}
+
+.profileFace {
+    /*width: 300px;*/
+    /*font-family: "Courier New";*/
+    
+    color: black;
+    /*background-color: black;*/
+    
+    position: relative;
+    float: left;
+    margin-right: auto;
+    vertical-align: -100%;
+}
+
+.profile img {
+    height: 180px;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+}
+
+#username {
+    text-align: left;
+    background-color: white;
+    color: black;
+    font-size: 2.5em;
+    font-weight: 100;
+    vertical-align: -80px;
+    margin-left: 20px;
+    padding: 15px;
+    border: solid 5px black;
+}
+
+#stats {
+    vertical-align: -275%;
+    margin-left: 10px;
+    font-weight: 400;    
+}
+
+.fixed {
+    list-style-type: none;
+    width: 100px;
+    font-family: 'Helvetica Neue';
+    font-weight: 300;
+    padding-left: 5px;
+    border-left: 4px solid white;
+    font-size: 1em;
+    color: white;
+    background-color: #444;
+    position: absolute;
+    margin-left: 0px;
+
+    text-align: left;
+}
+
+.fixedBox {
+    width: 240px;
+    height: 180px;
+    margin-left: 560px;
+    /*display: inline-block;*/
+    font-weight: 100;
+    position: absolute;
+    font-size: 1em;
+    color: #444;
+    text-align: right;
+}
+
+.fixedBox li {
+    list-style-type: none;
+}
+
+.essayQ {
+    font-weight: 250;
+    font-size: 1.2em;
+    font-family: "Helvetica Neue";
+    /*border-bottom: solid black 1px;*/
+    
+    color: #333;
+    margin-left: -5px;
+    margin-top: 20px;
+}
+
+.essay {
+    /*font-weight: 400;*/
+    /*color: #555;*/
+    
+    font-size: 0.8em;
+    font-family: "Courier New";
+    display: block;
+    margin-top: 20px;
+}
+
+.profileBody {
+    width: 90%;
+    font-family: "Courier New";
+    /*margin: 50px;*/
+    /*font-size: 3em;*/
+    
+    float: left;
+    /*background-color: red;*/
+}
+
+.directoryName {
+    font-family: "Courier New";
+    background-color: #111;
+    color: white;
+    font-size: 1.5em;
+    padding: 5px;
+}
+
+.list-group {
+    font-family: "Helvetica Neue";
+    font-weight: 200;
+    font-size: 1.2em;
+}
+/*.list-group a hover {
+    background-color: #ff005e;
+}*/
+
+.directoryHeader {
+    font-family: "Courier New";
+    font-weight: 500;
+    font-size: 2em;
+}
+
+.questionnaire {
+    font-family: "Courier New";
+    font-size: 0.8em;
+    margin: 40px 0px 20px 25px;
+    color: #555;
+}
+
+.questionnaireQ {
+    font-family: 'Helvetica Neue';
+    font-weight: 300;
+    font-size: 1.3em;
+    margin: 0px 0px 20px 25px;
+}
+
+.questionnaire input[type=radio] {
+    border: 0px;
+    /*width: 100%;*/
+    
+    height: .9em;
+    margin-right: 10px;
+}
+
+#tabs ul {
+    position: relative;
+    list-style-type: none;
+    margin-left: 5%;
+    margin-right: auto;
+    padding: 0;
+    display: inline-block;
+    width: 100%;
+    font-family: "Courier New";
+    font-weight: 100;
+    font-size: 1.5em;
+}
+
+#tabs li {
+    float: left;
+    text-align: center;
+    width: 250px;
+    display: inline-block;
+    /*position: relative;*/
+    margin-top: 40px;
+    margin-bottom: 50px;
+    border: 1px solid black;
+}
+
+.nav {
+    background-color: black;
+    font-family: "Courier New";
+}
+
+nav {
+    background-color: black;
+    font-family: "Courier New";
+}
+
+.navbar-brand {
+    margin-left: 15%;
+}
+
+.navbar-right {
+    margin-right: 15%;
+}
+
+.navbar-header {
+    /*margin-right: 20px;*/
+    
+    background-color: black;
+    font-family: "Courier New";
 }
