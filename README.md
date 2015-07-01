@@ -1,13 +1,13 @@
-[![LOBSTERDEATH Logo](http://sener.is/lobster.png)](http://hackreactor.com/)
+[![StageUp Logo](http://sener.is/lobster.png)](http://hackreactor.com/)
 
 <!-- [![Build Status](https://travis-ci.org/meanjs/mean.svg?branch=master)](https://travis-ci.org/meanjs/mean)
 [![Dependencies Status](https://david-dm.org/meanjs/mean.svg)](https://david-dm.org/meanjs/mean)
  -->
-LOBSTERDEATH 
+StageUp 
 
 There are no great ways for creatives to find other creatives to work with. 
 
-We built LOBSTERDEATH (project name was chosen for us!), using a MEAN stack. We write to the MongoDB after the questionnaire is filled out then read from it to populate the profile page. 
+We built StageUp (project name was chosen for us!), using a MEAN stack. We write to the MongoDB after the questionnaire is filled out then read from it to populate the profile page. 
 
 The typical options are for creatives looking to band together are:
 
@@ -18,7 +18,7 @@ The typical options are for creatives looking to band together are:
 
 ![Landing Page](https://i.imgur.com/G8jpmD0.png =300x300)
 
-LOBSTERDEATH is a platform for creatives to find collaborators. It will ask you a bunch of questions to quantify your compatibility with others based on your tastes, experience, and working style. It should recommend matches. 
+StageUp is a platform for creatives to find collaborators. It will ask you a bunch of questions to quantify your compatibility with others based on your tastes, experience, and working style. It should recommend matches. 
 
 ![Profile Page](https://slack-files.com/files-tmb/T0455847Q-F071T9F36-506f50f818/screen_shot_2015-06-30_at_12.46.31_pm_1024.png)
 
